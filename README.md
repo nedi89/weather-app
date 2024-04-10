@@ -33,7 +33,7 @@ This app relies on the OpenWeather API for fetching weather data. Ensure that yo
 
 Credits:
 This app was created by Nenad & Jovan.
-Weather data is provided by the OpenWeatherMap API.
+Weather data is provided by the Weather API (https://www.weatherapi.com/).
 License:
 This project is licensed under the MIT License. Feel free to modify and distribute it as needed.
 
