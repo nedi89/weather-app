@@ -17,19 +17,25 @@ View Weather Information:
 Once you type in the location, the app will display the current weather information for your location.
 Technologies Used:
 HTML: Used for structuring the web page.
+
 CSS: Used for styling the app and making it visually appealing.
+
 JavaScript: Used for fetching weather data from a weather API and updating the UI dynamically.
-OpenWeather API: Utilized to retrieve weather data based on the user's location.
+
+Weather API: Utilized to retrieve weather data based on the user's location.
+
 Files Included:
+
 index.html: HTML file containing the structure of the web page.
 style.css: CSS file for styling the app.
 main.js: JavaScript file for fetching weather data and updating the UI.
 README.md: This file, providing information about the app.
+
 Installation:
 No installation is required for this app. Simply download the provided files and open index.html in a web browser.
 
 Dependencies:
-This app relies on the OpenWeather API for fetching weather data. Ensure that your device has an active internet connection to fetch data successfully.
+This app relies on the Weather API for fetching weather data. Ensure that your device has an active internet connection to fetch data successfully.
 
 Credits:
 This app was created by Nenad & Jovan.
