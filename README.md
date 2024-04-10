@@ -42,7 +42,7 @@ This app was created by Nenad & Jovan.
 Weather data is provided by the Weather API (https://www.weatherapi.com/).
 
 Screenshot : 
-[![SCR-20240410-orxp.jpg](https://i.postimg.cc/7hwD9GtW/SCR-20240410-orxp.jpg)](https://postimg.cc/R6sjVFB7)
+[![SCR-20240410-oueo.jpg](https://i.postimg.cc/76707cjN/SCR-20240410-oueo.jpg)](https://postimg.cc/BLSjfhS8)
 Live-Demo : 
 
 https://raw.githack.com/nedi89/weather-app/main/index.html
