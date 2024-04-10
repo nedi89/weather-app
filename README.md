@@ -41,6 +41,9 @@ Credits:
 This app was created by Nenad & Jovan.
 Weather data is provided by the Weather API (https://www.weatherapi.com/).
 
+Screenshot : 
+[url=https://ibb.co/NN95H21][img]https://i.ibb.co/JpvVMjx/SCR-20240410-orxp.jpg[/img][/url]
+
 Live-Demo : 
 
 https://raw.githack.com/nedi89/weather-app/main/index.html
