@@ -4,8 +4,6 @@ Welcome to the Simple JavaScript Weather App! This is a lightweight web applicat
 Features:
 Current Weather Display: Users can view the current weather conditions including temperature, humidity, wind speed, and weather description.
 
-Location-Based: The app automatically detects the user's location using geolocation services provided by the browser.
-
 Responsive Design: The app is built with responsiveness in mind, ensuring a seamless experience across different devices and screen sizes.
 
 How to Use:
@@ -13,12 +11,10 @@ Accessing the App:
 
 Open the index.html file in a web browser of your choice.
 Alternatively, you can deploy the app to a web server to access it remotely.
-Allow Location Access:
 
-Upon opening the app, you will be prompted to allow access to your location. Click "Allow" to proceed.
 View Weather Information:
 
-Once location access is granted, the app will display the current weather information for your location.
+Once you type in the location, the app will display the current weather information for your location.
 Technologies Used:
 HTML: Used for structuring the web page.
 CSS: Used for styling the app and making it visually appealing.
