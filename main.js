@@ -64,7 +64,7 @@ function addUserInputEvent() {
 
 function fetchData() {
     fetch(
-        "https://api.weatherapi.com/v1/current.json?key=dde68e1ec993474f9a791107222009&q=" +
+        "https://api.weatherapi.com/v1/current.json?key=44735f1d101a4d64ac5122355241004&q=" +
         inputSearch +
         "&aqi=no"
     )
